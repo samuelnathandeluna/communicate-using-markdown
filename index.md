@@ -12,3 +12,9 @@ public static void main(String args[]) {
   System.out.println("Hello world!");
 }
 ```
+
+- [ ] Travel to New York
+- [ ] Travel to London
+- [ ] Travel to Paris
+- [ ] Travel to Munich
+- [ ] Talk about Pop Muzik
